@@ -4,11 +4,13 @@
     padding:0;
     text-decoration: none;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
+
 nav ul{
     list-style:none;
     margin-left: 120px;
-    margin-top: -23px;
+    margin-top: -28px;
     float:left;
 }
 nav ul li{
@@ -24,7 +26,7 @@ nav ul li a:hover{
     border-bottom: 1px solid white;
 }
 #container{
-    width: 1080px;
+    width: auto;
     margin: 0px;
 }
 #logotipo{
