@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+* {
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+nav ul{
+    list-style:none;
+    margin-left: 120px;
+    margin-top: -23px;
+    float:left;
+}
+nav ul li{
+    float: left;
+}
+nav ul li a:link{
+    display: block;
+    margin-right: 20px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+}
+nav ul li a:hover{
+    border-bottom: 1px solid white;
+}
+#container{
+    width: 1080px;
+    margin: 0px;
+}
+#logotipo{
+    margin-top: 0px;
+    left: 0px;
+    top: 0px;
+    display: block;
+    
+}
+#fotoChamada{
+    margin:  0px;
+}
